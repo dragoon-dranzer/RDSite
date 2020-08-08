@@ -7,6 +7,7 @@
 
  RaddDrop's various services are managed by RaddTaz and others may contribute.
 
- For any question, contact via telegram linked on our official site.
-
- Misuse of this site is considered unacceptable and none of the owners are responsible for abuse.
+ For any questions, contact via telegram linked on our official site.
+ 
+ Disclaimer:
+ Misuse of this site is considered unacceptable and none of the owners are responsible for abuse. 
