@@ -1,4 +1,4 @@
-#RaddGen Offical
+# RaddGen Offical
 
 A fast, lightweight CC generator and checker.
 
