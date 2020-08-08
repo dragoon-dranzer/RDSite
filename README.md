@@ -6,3 +6,5 @@
  This is an open-source project by RaddTaz and QuiteAFancyEmerald.
 
  For any question, contact via telegram linked on our official site.
+
+ Misuse of this site is considered unacceptable and none of the owners are responsible for abuse.
